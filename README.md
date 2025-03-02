@@ -9,7 +9,7 @@ This is a landing page for Journey.ai, showcasing AI implementation services for
 - **Lead Capture Form**: Contact form to capture potential client information
 - **Service Showcasing**: Clear presentation of the company's service offerings
 - **Team Section**: Introduction to the team members
-- **GitHub Pages Integration**: Automatic deployment to GitHub Pages
+- **GitHub Pages Integration**: Automatic deployment to GitHub Pages using v4 actions
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ This is a landing page for Journey.ai, showcasing AI implementation services for
 
 ### GitHub Pages Deployment
 
-This repository is set up to automatically deploy to GitHub Pages when changes are pushed to the main branch.
+This repository is set up to automatically deploy to GitHub Pages when changes are pushed to the main branch. The workflow uses the latest v4 versions of GitHub Actions artifacts.
 
 To set up GitHub Pages deployment:
 
@@ -38,6 +38,16 @@ To set up GitHub Pages deployment:
 5. Push changes to the main branch to trigger automatic deployment
 
 The deployment workflow is defined in `.github/workflows/deploy.yml`.
+
+#### Note on GitHub Actions Artifacts v4
+
+This project uses v4 of the GitHub Actions artifact actions, which offers:
+- Up to 10x faster upload and download speeds
+- Immediate artifact availability in the UI and API
+- Consistent artifact size reporting
+- Improved reliability with single archive file uploads
+
+For more information, see the [GitHub blog post on v4 artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/).
 
 ## Customization
 
