@@ -9,6 +9,7 @@ This is a landing page for Journey.ai, showcasing AI implementation services for
 - **Lead Capture Form**: Contact form to capture potential client information
 - **Service Showcasing**: Clear presentation of the company's service offerings
 - **Team Section**: Introduction to the team members
+- **GitHub Pages Integration**: Automatic deployment to GitHub Pages
 
 ## Getting Started
 
@@ -16,12 +17,27 @@ This is a landing page for Journey.ai, showcasing AI implementation services for
 
 - Any modern web browser
 - A web server (can be a local development server)
+- Git (for version control and deployment)
 
 ### Installation
 
 1. Clone this repository or download the files
 2. Host the files on a web server
 3. Open index.html in a web browser
+
+### GitHub Pages Deployment
+
+This repository is set up to automatically deploy to GitHub Pages when changes are pushed to the main branch.
+
+To set up GitHub Pages deployment:
+
+1. Fork or clone this repository to your GitHub account
+2. Go to your repository settings
+3. Navigate to the "Pages" section
+4. Under "Source", select "GitHub Actions"
+5. Push changes to the main branch to trigger automatic deployment
+
+The deployment workflow is defined in `.github/workflows/deploy.yml`.
 
 ## Customization
 

@@ -1,41 +1,74 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Tabs functionality for services
-    const serviceTabs = document.querySelectorAll('.tab-btn');
-    const serviceTabPanes = document.querySelectorAll('.tab-pane');
+    // Tab functionality for services section
+    const tabButtons = document.querySelectorAll('.tab-btn');
+    const tabPanes = document.querySelectorAll('.tab-pane');
     
-    serviceTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            // Remove active class from all tabs and panes
-            serviceTabs.forEach(t => t.classList.remove('active'));
-            serviceTabPanes.forEach(p => p.classList.remove('active'));
+    tabButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove active class from all buttons and panes
+            tabButtons.forEach(btn => btn.classList.remove('active'));
+            tabPanes.forEach(pane => pane.classList.remove('active'));
             
-            // Add active class to clicked tab
-            tab.classList.add('active');
+            // Add active class to clicked button
+            this.classList.add('active');
             
             // Show corresponding tab pane
-            const tabId = tab.getAttribute('data-tab');
+            const tabId = this.getAttribute('data-tab');
             document.getElementById(tabId).classList.add('active');
         });
     });
     
-    // Tabs functionality for pricing
-    const pricingTabs = document.querySelectorAll('.pricing-tab-btn');
+    // Tab functionality for pricing section
+    const pricingTabButtons = document.querySelectorAll('.pricing-tab-btn');
     const pricingPanes = document.querySelectorAll('.pricing-pane');
     
-    pricingTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            // Remove active class from all tabs and panes
-            pricingTabs.forEach(t => t.classList.remove('active'));
-            pricingPanes.forEach(p => p.classList.remove('active'));
+    pricingTabButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove active class from all buttons and panes
+            pricingTabButtons.forEach(btn => btn.classList.remove('active'));
+            pricingPanes.forEach(pane => pane.classList.remove('active'));
             
-            // Add active class to clicked tab
-            tab.classList.add('active');
+            // Add active class to clicked button
+            this.classList.add('active');
             
-            // Show corresponding tab pane
-            const tabId = tab.getAttribute('data-tab');
-            document.getElementById(tabId).classList.add('active');
+            // Show corresponding pricing pane
+            const paneId = this.getAttribute('data-tab');
+            document.getElementById(paneId).classList.add('active');
         });
     });
+    
+    // Form submission
+    const contactForm = document.getElementById('lead-form');
+    if (contactForm) {
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form data
+            const formData = new FormData(this);
+            const formObject = {};
+            formData.forEach((value, key) => {
+                formObject[key] = value;
+            });
+            
+            // Here you would typically send the data to a server
+            // For now, we'll just show a success message
+            
+            // Create success message
+            const successMessage = document.createElement('div');
+            successMessage.className = 'form-success';
+            successMessage.innerHTML = `
+                <h3>Thank you for contacting us!</h3>
+                <p>We've received your message and will get back to you shortly.</p>
+            `;
+            
+            // Replace form with success message
+            this.innerHTML = '';
+            this.appendChild(successMessage);
+            
+            // Log form data to console (for testing)
+            console.log('Form submitted:', formObject);
+        });
+    }
     
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -46,55 +79,14 @@ document.addEventListener('DOMContentLoaded', function() {
             if (targetId === '#') return;
             
             const targetElement = document.querySelector(targetId);
-            if (!targetElement) return;
-            
-            const headerHeight = document.querySelector('.header').offsetHeight;
-            const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset - headerHeight;
-            
-            window.scrollTo({
-                top: targetPosition,
-                behavior: 'smooth'
-            });
+            if (targetElement) {
+                window.scrollTo({
+                    top: targetElement.offsetTop - 80, // Adjust for header height
+                    behavior: 'smooth'
+                });
+            }
         });
     });
-    
-    // Form submission handling
-    const contactForm = document.getElementById('lead-form');
-    if (contactForm) {
-        contactForm.addEventListener('submit', function(e) {
-            e.preventDefault();
-            
-            // Get form values
-            const name = document.getElementById('name').value;
-            const company = document.getElementById('company').value;
-            const email = document.getElementById('email').value;
-            const phone = document.getElementById('phone').value;
-            const teamSize = document.getElementById('team-size').value;
-            const message = document.getElementById('message').value;
-            
-            // Here you would typically send this data to your backend
-            // For now, let's just log it and show a success message
-            console.log({
-                name,
-                company,
-                email,
-                phone,
-                teamSize,
-                message
-            });
-            
-            // Show success message
-            contactForm.innerHTML = `
-                <div class="form-success">
-                    <div class="success-icon">
-                        <i class="fas fa-check-circle"></i>
-                    </div>
-                    <h3>Thank you for reaching out!</h3>
-                    <p>We've received your request and will contact you shortly to schedule a call.</p>
-                </div>
-            `;
-        });
-    }
     
     // Header scroll behavior
     const header = document.querySelector('.header');
