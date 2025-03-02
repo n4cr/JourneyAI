@@ -1,0 +1,868 @@
+Helping you to roll out A.I. in Go-To-Market
+On our Journey of building a bootstrapped MVP, to disrupt how people buy in B2B.
+
+
+OUR TEAM
+Meet the Journey.ai team
+20 years of experience in tech and has been the CTO of multiple companies. Founder of an AI implementation agency, now joining forces with Stephane to build Journey.ai as its technical co-founder.
+
+He has a deep understanding of AI and can translate business requirements into scalable technical solutions to solve customer problems and is the perfect person to build Journey.ai’s technology.
+Nasir Shadravan
+Co-founder & CTO
+Dedicated 14 years to operating complex B2B SaaS and AI-aaS co’s as Chief Revenue Officer (CRO) with an Enterprise and/or Mid-market focused GTM motions.
+
+After having been a former champion of seller-led sales flows, he thought of rethinking the process from a white page. Starting from the buyer and a buyer-led & -controlled approach. Based on his own frustrations as a buyer and even more so, as a seller.
+Stephane Maes
+Co-founder & CEO
+AI-specialized Computer Science Researcher and Python Developer focusing on NLP and Language Models. Expertise in fine-tuning LMs, developing RAG systems, and AI evaluation tools.
+
+Combining research acumen with practical engineering skills. His background spans both theoretical AI and production-ready system implementation, positioning him to deliver cutting-edge AI solutions.
+Shahriar Shariati
+A.I. & NLP Engineer
+
+Starting out as an implementation partner.
+BOOTSTRAPPED APPROACH TO MVP
+To achieve building our MVP we first start as an AI implementation partner helping you to optimize your go-to-market workflows and overall GTM operations - with AI. 
+
+That way, we can dive into all workflows, use cases, software and data, with multiple customers, before developing our product based on those implementation experiences.
+
+We'd love to help you identify how you could use AI in your current sales approach, in a variety of ways. And to be part of your journey, if you’d care to be part of ours.
+
+
+
+By buying our services you’re supporting a bootstrapped startup with building our Minimal Viable Product (MVP).
+LINK TO JOURNEY’S PRODUCT TEASER
+
+Unclear Where AI 
+Can Add Value
+
+Not knowing where AI can drive impact, leading to hesitation and missed opportunities.
+Siloed & 
+Inconsistent Data
+
+Critical data is spread across multiple systems, making AI integration difficult.
+
+AI Struggles to 
+Understand Context
+
+Without a structured knowledge foundation, AI fails to generate relevant or useful insights.
+
+What we often encounter at customers.
+OUR CUSTOMERS’ CHALLENGES
+Poor Data Quality 
+Slows AI Adoption
+
+Inaccurate, incomplete, or unstructured data prevents AI from delivering reliable results.
+Security & 
+Compliance Risks
+
+Connecting AI to sensitive business data without security and governance leads to risks.
+
+Lack of AI-Optimized 
+Data Processing
+
+AI models require structured, enriched, and real-time data flows to work properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Integration Layer
+Selection Workflows & Tools
+Software
+Project based roll-out of desired AI implementations to optimize workflows.
+
+Starting with the foundation by creating an AI-ready data platform.
+Scanning your whole sales process & all workflows for AI optimization.
+Data Sources
+Workflows
+1
+4
+2
+A.I. SCAN
+AI ROLL-OUT
+AI-READY
+Validation
+Semantic Layer
+OUR AI IMPLEMENTATION SERVICES
+How we help you to get the most out of AI across your complete go-to-market workflow.
+Implementation
+RAG Knowledge Foundation
+
+
+
+
+
+
+
+
+
+
+
+Setup & Configuration
+Meaningful output and the ability for team members to “talk to your data”.
+3
+AI ASSISTANT
+Validation & Guardrails
+Security & Access Management
+5
+
+AI Feasibility & 
+Workflow Analysis
+
+Identifying where AI can create efficiencies in & improve decision-making in all workflows.
+Unify Data Across 
+All Systems
+
+Break down data silos and create a centralized data environment that AI can access.
+
+
+
+
+
+Layer for AI Contextualization
+
+Structuring data with metadata, semantic layers & RAG to help AI understand business context.
+
+
+How we make a difference in your journey to implement AI across GTM.
+OUR SOLUTIONS
+Ensure High-Quality, AI-Optimized Data
+
+Clean, enrich & validate data to eliminate errors and inconsistencies, pre-processing.
+Strong Security & Compliance Controls
+
+Establishing access controls, encryption, and compliance frameworks to protect the data.
+
+A Scalable AI-Ready Infrastructure
+
+A flexible data architecture that supports AI automation and real-time decision-making.
+
+
+
+
+1. HOLISTIC AI SCAN
+Evaluate the impact of AI across all your go-to-market workflows.
+
+
+Holistic AI Scans start with a kick-off meeting. During and after that meeting we exchange all necessary information for us to get to work.
+
+We also organize 1 or 2 workflow deep-dive workshop(s) to deeply understand the use cases, workflow, tools, data and data sources.
+
+Next our team starts by studying your complete go-to-market workflow, tech stack and all correlated data sources to recommend AI optimization opportunities in-house.
+Finally, you will get a complete view & report on what’s possible technologically today - and what that could mean for you concretely. 
+
+1. HOLISTIC AI SCAN 
+Evaluate the impact of AI across all your go-to-market workflows.
+
+
+1. Market Research & 
+ICP Development AI
+
+ICP Analysis
+Data Provider
+Competitive Intel
+Intent Signals
+2. Lead generation & 
+Data Enrichment AI
+
+AI Data Scraping
+AI Data Enrichment 
+AI Visitor Identification 
+AI Account Research
+3. Qualification & 
+Prioritization AI
+
+AI Lead Management 
+AI Data Insights 
+AI Deal Intelligence 
+AI Sales Workflow 
+4. Multi-Channel
+Outreach AI
+
+Email
+LinkedIn
+Video/Voice
+Call Automation
+5. Meeting & Demo AI
+
+Meeting Preparation
+Meeting Analysis & Notes
+Sales Enablement
+Proposals
+Coaching
+6. Deal Management AI
+
+CRM
+Pricing
+Forecasting
+Conversion tracking
+Sales comp. tools
+7. Post-Sale AI
+
+Onboarding
+Customer success
+Customer support
+Workflow automation
+8. Analytics & Optimization AI
+
+Process improvement.
+Campaign optimization
+Custom solution dev.
+Auto CRM updates
+Tool Integration Req.
+
+Verify tool compatibility
+Set up data flow
+Configure automation
+Ensure security
+Train teams
+Performance Monitoring
+
+Set up KPI tracking
+Monitor tool effectiveness
+Regular system audits
+ROI analysis
+Team feedback collection
+Notes
+
+Not all tools necessary 
+Start with essentials
+Regular stack review
+Ensure data protection 
+Human oversight
+
+1. HOLISTIC AI SCAN
+Evaluate the impact of AI across all your go-to-market workflows.
+
+
+1. Market Research & ICP Development AI
+
+AI ICP Analysis tools for defining the ICP
+AI Data Provider tools for market insights
+AI Competitive Intelligence tools for market positioning
+AI Intent Signals tools for market demand analysis
+2. Lead generation & Data Enrichment AI
+
+AI Data Scraping tools for gathering prospects
+AI Data Enrichment tools for completing contact info
+AI Visitor Identification tools for website traffic analysis
+AI Account Research tools for company insights
+AI Sales Extension tools for browser-based prospecting
+3. Lead Qualification & Prioritization AI
+
+AI Lead Management tools for scoring and prioritizing
+AI Data Insights tools for prospect analysis
+AI Deal Intelligence tools for opportunity assessment
+AI Sales Workflow tools for process automation
+4. Multi-Channel Outreach AI
+
+AI Email Deliverability tools for ensuring inbox placement
+AI Personalization tools for customized messaging
+AI Copywriting tools for content creation
+AI Video Prospecting tools for video messages
+AI Voice Note Prospecting tools for audio messages
+AI Phone Dialing tools for call campaigns
+AI Cold Caller tools for automated calling
+AI All-in-One Prospecting tools for coordinated outreach
+
+1. HOLISTIC AI SCAN
+Evaluate the impact of AI across all your go-to-market workflows.
+
+
+5. Meeting & Demo Phase AI
+
+AI Meeting Preparation for extensive meeting prep.
+AI Meeting notes & deep analysis
+AI Sales Enablement tools for presentation materials
+AI Proposal tools for creating proposals
+AI Sales Coaching tools for improving performance
+6. Deal Management & Negotiation AI
+
+AI CRM tools for relationship management
+AI Pricing Optimization tools for quote generation
+AI Sales Forecasting tools for pipeline management
+AI Sales Funnel tools for conversion tracking
+AI Sales Compensation tools for commission calculation
+7. Post Sale AI
+
+AI Customer Success tools for onboarding
+AI Customer Service tools for support
+AI Automation tools for workflow automation
+8. Analytics & Optimization AI
+
+AI Sales Workflow tools for process improvement
+AI Advertising tools for campaign optimization
+AI Models for custom solution development
+AI updates your CRM based on meeting data
+
+1. HOLISTIC AI SCAN
+Evaluate the impact of AI across all your go-to-market workflows.
+
+
+Tool Integration Requirements
+
+Verify compatibility between selected tools
+Set up data flow between systems
+Configure automation rules
+Establish security protocols
+Train team members on tool usage
+Performance Monitoring
+
+Set up KPI tracking
+Monitor tool effectiveness
+Regular system audits
+ROI analysis
+Team feedback collection
+Good to know
+
+Not all tools may be necessary for every organization
+Consider starting with essential tools and expanding 
+Regularly review and optimize tool stack
+Ensure compliance with data protection regulations
+Maintain human oversight of AI-powered processes
+
+2. AI-READY DATA PLATFORM
+Helping you to prepare your data to start experimenting & operationalizing A.I.
+
+
+It all starts with the go-to-market data, by creating a “universal truth” between all data, tools and data sources for AI to work with.
+
+We connect all your data sources & tools to a data pipeline and then to an embedding model and a semantic layer. Next we connect it a vector database and a RAG (retrieval augmented generation) that connects to an orchestration platform.
+
+Where we then can consolidate, clean & transform data so you can start experimenting and implementing AI with:
+
+- AI-driven workflow automation
+- AI-assistants (internal/external use)
+- AI-agents
+- API/integrations
+
+
+
+
+Semantic Layer
+
+
+
+Data Pipeline
+
+
+
+Vector Database
+
+
+
+WorkflowAutomations
+2. AI-READY DATA PLATFORM
+How we build an advanced data model so you can talk to your data.
+
+
+
+
+
+LLMInterface
+Talk to your data & tools.“Hello.”
+LLM Cache
+Validation & Guardrails
+LLMops
+
+
+
+EmbeddingModel
+Orchestration & Automation
+
+
+
+Agents
+
+
+
+APIs & Plugins
+
+
+
+Orchestration Platform
+
+
+
+RAG Engine
+Data Platform: Data Ingestion, Storage, Governance, Quality & Catalog
+All Data Sources: Structured & Unstructured Data
+
+
+
+AI Assistants
+
+3. AI ASSISTANT (INTERNAL USE)
+Talk to your data across all linked sources & software, via an LLM interface & front - and take action.
+
+
+Next we create an LLM interface. This allows you to use this LLM interface as a front. 
+
+This interface is connected to all these sources and enables you to combine all that data, with the intelligence of the LLM and to steer action.
+We are also actively building out a library of templates of prompts & output frameworks for all sorts of workflows which we customize for each use case and customer
+
+So you can have structured output in various forms, depending on the use case & need.
+
+
+3. TALK TO YOUR DATA
+Topics you could talk about: the options are limitless. 
+
+
+MARKETING
+
+Campaign Analytics & Optimization
+Attribution & Journey Analysis
+Budget Optimization
+Content Performance
+Brand Health Monitoring
+Market Intelligence
+Competitive Analysis
+Audience Segmentation
+SALES
+
+Pipeline Management
+Sales Intelligence
+Territory & Account Planning
+Sales Enablement & Onboarding
+Deal Analytics
+Performance Optimization
+Sales Forecasting
+Win/Loss Analysis
+CUSTOMER SUCCESS
+
+Proactive Account Management
+Usage & Adoption
+Customer Journey Optimization
+Value Realization
+Support Analytics
+Customer Health Monitoring
+Churn Prediction
+NPS & Feedback Analysis
+REVENUE OPERATIONS
+
+Forecasting & Planning
+Process Optimization
+Data Quality & Enrichment
+Cross-functional Intelligence
+System Optimization
+Strategic Planning
+Revenue Attribution
+Compliance Monitoring
+
+3. CONCRETE EXAMPLES: INTERNAL USE
+Questions you could ask your data.
+
+
+MARKETING
+
+Campaign Analytics & Optimization
+“Compare engagement across content types and suggest what to focus on next quarter"
+
+Attribution & Journey Analysis
+"What's the average number of touchpoints before conversion for each customer segment?"
+
+Budget Optimization
+"What's our customer acquisition cost trend by channel over the last 18 months?"
+
+Content Performance
+"Show me content gaps in our funnel based on engagement drop-offs"
+SALES
+
+Pipeline Management
+"What's the health score of each opportunity based on all interaction data?"
+
+Sales Intelligence
+"Summarize all recent interactions with Account X across email, calls, and meetings"
+
+Territory & Account Planning
+"What accounts show buying signals but haven't been contacted recently?"
+
+Sales Enablement
+"What content is most effective at each sales stage based on close rates?"
+
+
+
+CUSTOMER SUCCESS
+
+Proactive Account Management
+"Flag accounts showing churn risk indicators based on product usage and engagement"
+
+Usage & Adoption
+"Identify customers who would benefit from specific features they're not using"
+
+Customer Journey Optimization
+"What support issues commonly precede churn?"
+
+Value Realization
+"Generate quarterly business reviews automatically from usage and outcome data"
+
+
+REVENUE OPERATIONS
+
+Forecasting & Planning
+"Generate revenue forecasts incorporating all pipeline, historical, and market data"
+
+Process Optimization
+"Show me where we're losing efficiency in our quote-to-cash process"
+
+Data Quality & Enrichment
+"Find and suggest fixes for data inconsistencies across our revenue stack"
+
+Cross-functional Intelligence
+"Create unified customer health scores incorporating all department data"
+
+3. AI ASSISTANT (EXTERNAL USE)
+Let customers talk to your software - and take action.
+
+Do you already offer an AI Assistant for your customers, embedded in your website/product? 
+
+Just like we can make an AI Assistant for internal use, we can make an AI assistant for your customers to use.
+
+So customers can then talk to your website, software, their data and your data. But it goes further than just talking…
+Allowing them to take actions in terms of guided learning, advanced operations, system management and data intelligence.
+
+
+3. CLIENTS TALKING TO YOUR DATA
+Topics your customers could talk about: the options are limitless. 
+
+
+GUIDED LEARNING
+
+Contextual Help & Onboarding
+Feature Discovery
+Best Practices
+Interactive Tutorials
+Personalized Learning Paths
+Success Templates
+Quick Start Guides
+Feature Recommendations
+ADVANCED OPERATIONS
+
+Workflow Automation
+Integration Management
+Custom Reporting
+Batch Operations
+Schedule Management
+Alert Configuration
+Data Pipeline Creation
+Automated Testing
+SYSTEM MANAGEMENT
+
+Configuration Assistance
+Data Management
+Problem Resolution
+User Access Control
+Backup & Recovery
+System Health Monitoring
+Version Control
+Security Settings
+DATA INTELLIGENCE
+
+Analytics & Visualization
+Performance Insights
+Trend Analysis
+Predictive Forecasting
+Cohort Analysis
+Anomaly Detection
+Conversion Tracking
+A/B Test Analysis
+
+3. CONCRETE EXAMPLES: FOR CUSTOMERS
+Questions your customers could ask your software.
+
+
+GUIDED LEARNING
+
+Contextual Help & Onboarding
+"How do I get started with my first project?"
+
+Feature Discovery
+"What features am I not using that could help my workflow?"
+
+Best Practices
+"Show me the recommended way to structure my workspace"
+
+Interactive Tutorials
+"Guide me through setting up my first template"
+ADVANCED OPERATIONS
+
+Workflow Automation
+"Automate the approval process when someone submits a new item"
+
+Integration Management
+"Connect this to my other work tools"
+
+Custom Reporting
+"Create a view showing my team's progress"
+
+Batch Operations
+"Update all items with this new status at once"
+
+SYSTEM MANAGEMENT
+
+Configuration Assistance
+"Help me customize my workspace settings"
+
+Data Management
+"Import my customer list from this spreadsheet"
+
+Problem Resolution
+"Why can't I share this with my team?"
+
+Access Control
+"Set up permissions for my new team member"
+
+
+DATA INTELLIGENCE
+
+Analytics & Visualization
+"Show me which features of the platform I use most ineffectively"
+
+Performance Insights
+"Which team members are underutilizing key features that could boost their productivity?"
+
+Trend Analysis
+"Which workflows are saving us the most time?"
+
+Predictive Forecasting
+"Based on our usage patterns, when will we need to upgrade our plan?"
+
+
+Based on our performed AI workflow scan and recommendations, we can help you with implementing AI into your workflows.We completely set it up for you, onboard you and make sure it’s running, doing and acting as intended - to maximise its impact & value.
+
+This is always done on a project-basis and scoped implementation by implementation. According to your preference, timeline & budget.
+4. FURTHER AI IMPLEMENTATION
+Get started with implementing AI into your workflows, one step at a time.
+
+
+4. FURTHER AI IMPLEMENTATION
+How we implement AI into your GTM workflows.
+
+1.
+
+Define process
+IdentifyData Sources
+
+2.
+Setup
+Technology
+
+4.
+Implement
+
+
+6.
+3.
+
+Choose Technology
+5.
+
+Test & Improve
+7.
+
+Check Results
+
+FOCUS
+
+You can count on us to help you with experimenting and operationalizing AI in GTM. So you can focus on your core activities.
+SPEED
+
+Implement AI much faster with our help in comparison to figuring it all out by yourself. Leverage our expertise for speed.
+GTM + AI KNOWLEDGE
+
+Thanks to what we’re building & our backgrounds as a team, we are operating at the absolute forefront of AI in go-to-market.
+Tech. companies often feel the obligation to experiment & implement AI by themselves.
+WHY WORK WITH US?
+AI THAT WORKS
+
+People often experiment with AI and find it doesn’t work. AI does work, if you set it up properly. 
+We set it up properly with you.
+HOLISTIC VIEW
+
+Instead of uncontrolled AI experimentation cross teams & company, implement AI in a controlled & holistic way.
+
+AI ASSISTANT
+Internal use or for customers
+AI-READY
+Creation of an AI data platform
+Then we connect the AI data platform to an LLM to combine all that data, with the intelligence of the LLM.
+
+This is developed and set-up in-house for you, without any licence or recurring fees other than the needed software. 
+A next step is creating the AI-ready data platform, by cleaning, transforming and preparing the data.
+
+This will be used as data source for the semantic layer & RAG to call on. Based on this, you can then start to experiment with AI.
+23
+PRICING
+Overview.
+Diving into your sales workflows (and tech stack), where we apply our AI Scan format to identify your possibilities with AI.
+
+We then host a workshop to go over the possibilities and the impact of implementing certain AI into your current workflows.
+
+AI SCAN
+Discover your possibilities with AI
+Starting from* 
+€7.499
+Starting from* 
+€12.499
+Starting from* 
+€9.999
+(*) All pricing is project-based and a project’s duration is determined by 
+the scale and number of data sources, workflows & implementation(s)
+IMPLEMENTATION
+Roll-out of AI over your workflows
+Based on the AI Scan, we can implement different types of AI of your choice, into your sales workflows and set it up for you.
+
+You buy the software, we implement it for you and make sure it works and fits into your workflows, as planned.
+
+Starting from* 
+€4.999
+
+TIER 1
+Est. Teamsize: 10-26
+TIER 2
+Est. Teamsize: 26-50
+TIER 3
+Est. Teamsize: 51-200
+24
+FOUNDING CLIENTS PROMO: A.I. SCAN 
+Identify 10x cost-saving opportunities or AI efficiencies within 1-3 weeks.
+All-in
+€7.499
+All-in
+€9.999
+All-in
+€14.999
+
+
+
+1
+
+1 
+
+
+
+✓ 
+ 
+✓
+
+✓ 
+✓
+
+
+
+2
+
+1 
+
+
+
+✓ 
+ 
+✓
+
+✓ 
+✓
+
+
+
+
+2
+
+1 
+
+
+
+✓ 
+ 
+✓
+
+✓ 
+✓
+
+
+
+Together with the Client
+
+Mapping workshop (4h)
+
+AI possibilities workshop (2-4h)
+
+Journey.ai’s team (4-10 days)
+
+Deepscan of all data sources
+
+Deepscan of all workflows
+
+Mapping all AI opportunities
+
+Summarizing report
+
+TIER 4
+Est. Teamsize: 200+
+All-in
+€19.999
+
+
+
+2
+
+1 
+
+
+
+✓ 
+ 
+✓
+
+✓ 
+✓
+
+Book a call here
+Stephane Maes
+Co-founder & CEO
+
++32 498 71 91 82
+stephane@semicolon.io
+Nasir Shadravan
+Co-founder & CTO
+
++31 639 88 17 06
+nasir@semicolon.io
+What we’re building

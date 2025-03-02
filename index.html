@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journey.ai - Implementing AI in Go-To-Market</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/3b45a615ba.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>Journey<span>.ai</span></h1>
+                </div>
+                <nav class="nav">
+                    <ul>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#approach">Approach</a></li>
+                        <li><a href="#team">Team</a></li>
+                        <li><a href="#pricing">Pricing</a></li>
+                        <li><a href="#contact" class="btn btn-primary">Contact Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Helping you roll out A.I. in Go-To-Market</h1>
+                <p>On our Journey of building a bootstrapped MVP, to disrupt how people buy in B2B.</p>
+                <div class="hero-cta">
+                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                    <a href="#services" class="btn btn-secondary">Explore Services</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="challenges" class="challenges">
+        <div class="container">
+            <h2 class="section-title">What We Often Encounter at Customers</h2>
+            <div class="challenges-grid">
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-question-circle"></i></div>
+                    <h3>Unclear Where AI Can Add Value</h3>
+                    <p>Not knowing where AI can drive impact, leading to hesitation and missed opportunities.</p>
+                </div>
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-database"></i></div>
+                    <h3>Siloed & Inconsistent Data</h3>
+                    <p>Critical data is spread across multiple systems, making AI integration difficult.</p>
+                </div>
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-comment-slash"></i></div>
+                    <h3>AI Struggles to Understand Context</h3>
+                    <p>Without a structured knowledge foundation, AI fails to generate relevant or useful insights.</p>
+                </div>
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-exclamation-triangle"></i></div>
+                    <h3>Poor Data Quality Slows AI Adoption</h3>
+                    <p>Inaccurate, incomplete, or unstructured data prevents AI from delivering reliable results.</p>
+                </div>
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-shield-alt"></i></div>
+                    <h3>Security & Compliance Risks</h3>
+                    <p>Connecting AI to sensitive business data without security and governance leads to risks.</p>
+                </div>
+                <div class="challenge-card">
+                    <div class="icon"><i class="fas fa-cogs"></i></div>
+                    <h3>Lack of AI-Optimized Data Processing</h3>
+                    <p>AI models require structured, enriched, and real-time data flows to work properly.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services">
+        <div class="container">
+            <h2 class="section-title">Our AI Implementation Services</h2>
+            <p class="section-subtitle">How we help you to get the most out of AI across your complete go-to-market workflow.</p>
+            
+            <div class="service-tabs">
+                <div class="tab-buttons">
+                    <button class="tab-btn active" data-tab="scan">1. Holistic AI Scan</button>
+                    <button class="tab-btn" data-tab="data">2. AI-Ready Data Platform</button>
+                    <button class="tab-btn" data-tab="assistant">3. AI Assistant</button>
+                    <button class="tab-btn" data-tab="implementation">4. AI Implementation</button>
+                </div>
+                
+                <div class="tab-content">
+                    <div class="tab-pane active" id="scan">
+                        <div class="service-content">
+                            <div class="service-text">
+                                <h3>Holistic AI Scan</h3>
+                                <h4>Evaluate the impact of AI across all your go-to-market workflows</h4>
+                                <p>We start with a kick-off meeting and organize workflow deep-dive workshops to understand your use cases, workflows, tools, and data sources. Our team studies your complete go-to-market workflow, tech stack, and all correlated data sources to recommend AI optimization opportunities.</p>
+                                <p>You will receive a complete view and report on what's technologically possible today and what it could mean for you specifically.</p>
+                                <div class="service-features">
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Market Research & ICP Development AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Lead Generation & Data Enrichment AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Qualification & Prioritization AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Multi-Channel Outreach AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Meeting & Demo AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Deal Management AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Post-Sale AI</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Analytics & Optimization AI</div>
+                                </div>
+                            </div>
+                            <div class="service-image">
+                                <img src="https://via.placeholder.com/500x400?text=AI+Scan" alt="AI Scan Illustration">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="data">
+                        <div class="service-content">
+                            <div class="service-text">
+                                <h3>AI-Ready Data Platform</h3>
+                                <h4>Helping you to prepare your data to start experimenting & operationalizing A.I.</h4>
+                                <p>It all starts with creating a "universal truth" between all data, tools, and data sources for AI to work with. We connect all your data sources & tools to a data pipeline, an embedding model, and a semantic layer. This is then connected to a vector database and RAG (retrieval augmented generation) that links to an orchestration platform.</p>
+                                <p>We consolidate, clean & transform data so you can start experimenting and implementing AI with:</p>
+                                <div class="service-features">
+                                    <div class="feature"><i class="fas fa-check-circle"></i> AI-driven workflow automation</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> AI-assistants (internal/external use)</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> AI-agents</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> API/integrations</div>
+                                </div>
+                            </div>
+                            <div class="service-image">
+                                <img src="https://via.placeholder.com/500x400?text=AI+Data+Platform" alt="AI Data Platform Illustration">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="assistant">
+                        <div class="service-content">
+                            <div class="service-text">
+                                <h3>AI Assistant</h3>
+                                <h4>Talk to your data across all linked sources & software, via an LLM interface</h4>
+                                <p>We create an LLM interface connected to all your data sources, enabling you to combine that data with the intelligence of the LLM and steer action. We're building a library of templates of prompts & output frameworks for various workflows, customized for each use case and customer.</p>
+                                <p>You can have structured output in various forms, depending on your specific needs, for both internal use and customer-facing applications.</p>
+                                <div class="service-features">
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Marketing insights and optimization</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Sales intelligence and pipeline management</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Customer success and journey optimization</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Revenue operations and forecasting</div>
+                                </div>
+                            </div>
+                            <div class="service-image">
+                                <img src="https://via.placeholder.com/500x400?text=AI+Assistant" alt="AI Assistant Illustration">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="tab-pane" id="implementation">
+                        <div class="service-content">
+                            <div class="service-text">
+                                <h3>AI Implementation</h3>
+                                <h4>Get started with implementing AI into your workflows, one step at a time</h4>
+                                <p>Based on our AI workflow scan and recommendations, we help you implement AI into your workflows. We set everything up for you, onboard your team, and ensure it's running as intended to maximize impact and value.</p>
+                                <p>Our implementation process follows a structured approach:</p>
+                                <div class="service-features">
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Define process & identify data sources</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Choose the right technology</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Setup technology</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Implementation</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Testing & improvement</div>
+                                    <div class="feature"><i class="fas fa-check-circle"></i> Results verification</div>
+                                </div>
+                            </div>
+                            <div class="service-image">
+                                <img src="https://via.placeholder.com/500x400?text=AI+Implementation" alt="AI Implementation Illustration">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="why" class="why-us">
+        <div class="container">
+            <h2 class="section-title">Why Work With Us?</h2>
+            <div class="why-grid">
+                <div class="why-card">
+                    <div class="icon"><i class="fas fa-bullseye"></i></div>
+                    <h3>Focus</h3>
+                    <p>You can count on us to help you with experimenting and operationalizing AI in GTM, so you can focus on your core activities.</p>
+                </div>
+                <div class="why-card">
+                    <div class="icon"><i class="fas fa-rocket"></i></div>
+                    <h3>Speed</h3>
+                    <p>Implement AI much faster with our help compared to figuring it all out by yourself. Leverage our expertise for speed.</p>
+                </div>
+                <div class="why-card">
+                    <div class="icon"><i class="fas fa-brain"></i></div>
+                    <h3>GTM + AI Knowledge</h3>
+                    <p>Thanks to what we're building & our backgrounds, we operate at the absolute forefront of AI in go-to-market.</p>
+                </div>
+                <div class="why-card">
+                    <div class="icon"><i class="fas fa-check-double"></i></div>
+                    <h3>AI That Works</h3>
+                    <p>People often experiment with AI and find it doesn't work. AI does work if you set it up properly. We set it up properly with you.</p>
+                </div>
+                <div class="why-card">
+                    <div class="icon"><i class="fas fa-eye"></i></div>
+                    <h3>Holistic View</h3>
+                    <p>Instead of uncontrolled AI experimentation across teams, implement AI in a controlled & holistic way.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <h2 class="section-title">Pricing</h2>
+            <p class="section-subtitle">Transparent pricing based on your team size and implementation needs</p>
+            
+            <div class="pricing-tabs">
+                <div class="tab-buttons">
+                    <button class="pricing-tab-btn active" data-tab="scan-pricing">AI Scan</button>
+                    <button class="pricing-tab-btn" data-tab="implementation-pricing">Implementation</button>
+                </div>
+                
+                <div class="pricing-content">
+                    <div class="pricing-pane active" id="scan-pricing">
+                        <div class="pricing-cards">
+                            <div class="pricing-card">
+                                <div class="pricing-header">
+                                    <h3>Tier 1</h3>
+                                    <p class="team-size">Est. Team Size: 10-26</p>
+                                    <div class="price">€7,499</div>
+                                    <p class="all-in">All-in</p>
+                                </div>
+                                <div class="pricing-features">
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping workshop</span>
+                                        <span class="feature-value">1 (4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">AI possibilities workshop</span>
+                                        <span class="feature-value">1 (2-4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all data sources</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all workflows</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping all AI opportunities</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Summarizing report</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="pricing-cta">
+                                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                                </div>
+                            </div>
+                            
+                            <div class="pricing-card">
+                                <div class="pricing-header">
+                                    <h3>Tier 2</h3>
+                                    <p class="team-size">Est. Team Size: 26-50</p>
+                                    <div class="price">€9,999</div>
+                                    <p class="all-in">All-in</p>
+                                </div>
+                                <div class="pricing-features">
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping workshop</span>
+                                        <span class="feature-value">2 (4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">AI possibilities workshop</span>
+                                        <span class="feature-value">1 (2-4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all data sources</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all workflows</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping all AI opportunities</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Summarizing report</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="pricing-cta">
+                                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                                </div>
+                            </div>
+                            
+                            <div class="pricing-card">
+                                <div class="pricing-header">
+                                    <h3>Tier 3</h3>
+                                    <p class="team-size">Est. Team Size: 51-200</p>
+                                    <div class="price">€14,999</div>
+                                    <p class="all-in">All-in</p>
+                                </div>
+                                <div class="pricing-features">
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping workshop</span>
+                                        <span class="feature-value">2 (4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">AI possibilities workshop</span>
+                                        <span class="feature-value">1 (2-4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all data sources</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all workflows</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping all AI opportunities</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Summarizing report</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="pricing-cta">
+                                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                                </div>
+                            </div>
+                            
+                            <div class="pricing-card">
+                                <div class="pricing-header">
+                                    <h3>Tier 4</h3>
+                                    <p class="team-size">Est. Team Size: 200+</p>
+                                    <div class="price">€19,999</div>
+                                    <p class="all-in">All-in</p>
+                                </div>
+                                <div class="pricing-features">
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping workshop</span>
+                                        <span class="feature-value">2 (4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">AI possibilities workshop</span>
+                                        <span class="feature-value">1 (2-4h)</span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all data sources</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Deepscan of all workflows</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Mapping all AI opportunities</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                    <div class="feature">
+                                        <span class="feature-label">Summarizing report</span>
+                                        <span class="feature-value"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="pricing-cta">
+                                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="pricing-pane" id="implementation-pricing">
+                        <div class="implementation-pricing">
+                            <div class="impl-pricing-card">
+                                <h3>Implementation</h3>
+                                <p>Based on the AI Scan, we can implement different types of AI of your choice into your sales workflows.</p>
+                                <p>You buy the software, we implement it for you and make sure it works and fits into your workflows, as planned.</p>
+                                <div class="price">Starting from €4,999</div>
+                                <p class="price-note">* All pricing is project-based and a project's duration is determined by the scale and number of data sources, workflows & implementation(s)</p>
+                                <div class="pricing-cta">
+                                    <a href="#contact" class="btn btn-primary">Schedule a Call</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="team" class="team">
+        <div class="container">
+            <h2 class="section-title">Our Team</h2>
+            <p class="section-subtitle">Meet the Journey.ai team</p>
+            
+            <div class="team-grid">
+                <div class="team-card">
+                    <div class="team-img">
+                        <img src="https://via.placeholder.com/300x300?text=N" alt="Nasir Shadravan">
+                    </div>
+                    <h3>Nasir Shadravan</h3>
+                    <p class="position">Co-founder & CTO</p>
+                    <p class="bio">20 years of experience in tech and has been the CTO of multiple companies. Founder of an AI implementation agency, now joining forces with Stephane to build Journey.ai as its technical co-founder.</p>
+                    <p class="bio">He has a deep understanding of AI and can translate business requirements into scalable technical solutions to solve customer problems and is the perfect person to build Journey.ai's technology.</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-img">
+                        <img src="https://via.placeholder.com/300x300?text=S" alt="Stephane Maes">
+                    </div>
+                    <h3>Stephane Maes</h3>
+                    <p class="position">Co-founder & CEO</p>
+                    <p class="bio">Dedicated 14 years to operating complex B2B SaaS and AI-aaS co's as Chief Revenue Officer (CRO) with an Enterprise and/or Mid-market focused GTM motions.</p>
+                    <p class="bio">After having been a former champion of seller-led sales flows, he thought of rethinking the process from a white page. Starting from the buyer and a buyer-led & -controlled approach. Based on his own frustrations as a buyer and even more so, as a seller.</p>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-img">
+                        <img src="https://via.placeholder.com/300x300?text=S" alt="Shahriar Shariati">
+                    </div>
+                    <h3>Shahriar Shariati</h3>
+                    <p class="position">A.I. & NLP Engineer</p>
+                    <p class="bio">AI-specialized Computer Science Researcher and Python Developer focusing on NLP and Language Models. Expertise in fine-tuning LMs, developing RAG systems, and AI evaluation tools.</p>
+                    <p class="bio">Combining research acumen with practical engineering skills. His background spans both theoretical AI and production-ready system implementation, positioning him to deliver cutting-edge AI solutions.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="approach" class="approach">
+        <div class="container">
+            <h2 class="section-title">Bootstrapped Approach to MVP</h2>
+            <div class="approach-content">
+                <div class="approach-text">
+                    <p>To achieve building our MVP we first start as an AI implementation partner helping you to optimize your go-to-market workflows and overall GTM operations - with AI.</p>
+                    <p>That way, we can dive into all workflows, use cases, software and data, with multiple customers, before developing our product based on those implementation experiences.</p>
+                    <p>We'd love to help you identify how you could use AI in your current sales approach, in a variety of ways. And to be part of your journey, if you'd care to be part of ours.</p>
+                    <p class="approach-highlight">By buying our services you're supporting a bootstrapped startup with building our Minimal Viable Product (MVP).</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get in Touch</h2>
+            <p class="section-subtitle">Schedule a call with our team to discuss how we can help you implement AI in your go-to-market strategy</p>
+            
+            <div class="contact-content">
+                <div class="contact-form">
+                    <form id="lead-form">
+                        <div class="form-group">
+                            <label for="name">Full Name*</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="company">Company Name*</label>
+                            <input type="text" id="company" name="company" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email Address*</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="team-size">Approximate Team Size</label>
+                            <select id="team-size" name="team-size">
+                                <option value="">Select team size</option>
+                                <option value="10-26">10-26 employees</option>
+                                <option value="26-50">26-50 employees</option>
+                                <option value="51-200">51-200 employees</option>
+                                <option value="200+">200+ employees</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">How can we help you?</label>
+                            <textarea id="message" name="message" rows="4"></textarea>
+                        </div>
+                        <div class="form-submit">
+                            <button type="submit" class="btn btn-primary">Schedule a Call</button>
+                        </div>
+                    </form>
+                </div>
+                
+                <div class="contact-info">
+                    <div class="info-card">
+                        <h3>Contact Us Directly</h3>
+                        <div class="contact-person">
+                            <h4>Stephane Maes</h4>
+                            <p>Co-founder & CEO</p>
+                            <p><i class="fas fa-phone"></i> +32 498 71 91 82</p>
+                            <p><i class="fas fa-envelope"></i> stephane@semicolon.io</p>
+                        </div>
+                        <div class="contact-person">
+                            <h4>Nasir Shadravan</h4>
+                            <p>Co-founder & CTO</p>
+                            <p><i class="fas fa-phone"></i> +31 639 88 17 06</p>
+                            <p><i class="fas fa-envelope"></i> nasir@semicolon.io</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>Journey<span>.ai</span></h2>
+                    <p>Helping you roll out A.I. in Go-To-Market</p>
+                </div>
+                <div class="footer-links">
+                    <div class="link-group">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#scan">AI Scan</a></li>
+                            <li><a href="#data">AI-Ready Data Platform</a></li>
+                            <li><a href="#assistant">AI Assistant</a></li>
+                            <li><a href="#implementation">AI Implementation</a></li>
+                        </ul>
+                    </div>
+                    <div class="link-group">
+                        <h3>Company</h3>
+                        <ul>
+                            <li><a href="#team">Team</a></li>
+                            <li><a href="#approach">Approach</a></li>
+                            <li><a href="#why">Why Us</a></li>
+                            <li><a href="#pricing">Pricing</a></li>
+                        </ul>
+                    </div>
+                    <div class="link-group">
+                        <h3>Contact</h3>
+                        <ul>
+                            <li><a href="#contact">Get in Touch</a></li>
+                            <li><a href="mailto:info@journey.ai">info@journey.ai</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 Journey.ai. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 
